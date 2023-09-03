@@ -1,0 +1,3 @@
+﻿  DotProductClient.cpp
+C:\Users\SSI\source\repos\DotProductClient\DotProductClient\DotProductClient.cpp(97,27): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+  DotProductClient.vcxproj -> C:\Users\SSI\source\repos\DotProductClient\x64\Debug\DotProductClient.exe
